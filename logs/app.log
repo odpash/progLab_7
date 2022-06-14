@@ -1,0 +1,11 @@
+14/06/2022 09:11:58.888 [main] INFO  o.lab7.server.util.AspectsForLogging - Successfully started SSH session!
+14/06/2022 09:11:58.995 [main] INFO  o.lab7.server.util.AspectsForLogging - Successfully initialized DB!
+14/06/2022 09:11:59.057 [main] INFO  o.lab7.server.util.AspectsForLogging - Executing DB query: lambda$0
+14/06/2022 09:11:59.057 [main] INFO  o.lab7.server.util.AspectsForLogging - Executing DB query: loadCollection
+14/06/2022 09:11:59.057 [main] INFO  o.lab7.server.util.AspectsForLogging - startServerWorker method executed
+14/06/2022 09:12:02.859 [Thread-5] INFO  o.lab7.server.util.AspectsForLogging - Read command from console: help
+14/06/2022 09:12:02.860 [Thread-5] INFO  o.lab7.server.util.AspectsForLogging - Executing server command: help
+14/06/2022 09:12:05.729 [Thread-5] INFO  o.lab7.server.util.AspectsForLogging - Read command from console: history
+14/06/2022 09:12:05.730 [Thread-5] INFO  o.lab7.server.util.AspectsForLogging - Executing server command: history
+14/06/2022 09:12:06.599 [Thread-5] INFO  o.lab7.server.util.AspectsForLogging - Read command from console: exit
+14/06/2022 09:12:06.599 [Thread-5] INFO  o.lab7.server.util.AspectsForLogging - Executing server command: exit
